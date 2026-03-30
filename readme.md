@@ -1,18 +1,72 @@
-# readme
-        
+<h1 align="center">👋 Olá, eu sou Antonio Carlos Santos</h1>
 
-# Antonio Santos
+<p align="center">
+💼 Desenvolvedor focado em <strong>automação, integração de sistemas e APIs</strong><br>
+🚀 Experiência com <strong>WMS (Sisdep), Protheus e soluções logísticas</strong><br>
+📈 Foco em <strong>eficiência operacional e otimização de processos</strong>
+</p>
 
-## Olá pessoal 👋
-Estou começando a resolver problemas utilizando a programação.
-Sou um FullStack Developer :computer:
+---
 
- :rocket:  &nbsp; Estou trabalhando buscando um emprego na área 
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
- <br/> :blush: &nbsp; Posso te ajudar com o que for possivel
- <br/> :computer: &nbsp; Minha stack: JS, CSS3, HTML5
- <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games, LoL e seriados no Netflix
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-AntonioSantos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antonio-carlos-oliveira-santos-26500636/)](https://www.linkedin.com/in/antonio-carlos-oliveira-santos-26500636/) 
-| 
-[![Gmail Badge](https://img.shields.io/badge/-tonny_oliveira10@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tonny_oliveira10@hotmail.com)](mailto:tonny_oliveira10@hotmail.com)
+<h2>🧠 Sobre mim</h2>
 
+<p>
+Sou desenvolvedor com experiência prática em ambientes corporativos, atuando com integração de sistemas e automação de processos.
+</p>
+
+<p>
+Tenho conhecimento em desenvolvimento FullStack, com foco em criar soluções que conectam sistemas, reduzem retrabalho e aumentam a produtividade.
+</p>
+
+---
+
+<h2>🚀 Objetivo</h2>
+
+<p>
+Atualmente busco uma oportunidade como desenvolvedor, onde eu possa aplicar meus conhecimentos em APIs, integrações e automação, contribuindo com soluções eficientes para o negócio.
+</p>
+
+---
+
+<h2>🔧 Tecnologias e Ferramentas</h2>
+
+<ul>
+  <li>JavaScript (Node.js)</li>
+  <li>HTML5, CSS3</li>
+  <li>APIs REST</li>
+  <li>Integrações (WMS / ERP - Protheus)</li>
+  <li>Banco de Dados (MySQL / MongoDB)</li>
+  <li>Docker (básico)</li>
+  <li>Git & GitHub</li>
+</ul>
+
+---
+
+<h2>📌 Informações rápidas</h2>
+
+<p>
+🚀 Buscando oportunidade na área de desenvolvimento <br>
+💡 Interesse em projetos de automação e integração <br>
+🎮 Curto tecnologia, games, LoL e séries <br>
+🤝 Aberto para colaboração em projetos
+</p>
+
+---
+
+<h2>📫 Contato</h2>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/antonio-carlos-oliveira-santos-26500636/">
+<img src="https://img.shields.io/badge/-AntonioSantos-blue?style=flat-square&logo=Linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:tonny_oliveira10@hotmail.com">
+<img src="https://img.shields.io/badge/-tonny_oliveira10@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" />
+</a>
+</p>
+
+---
+
+<p align="center">
+🚀 Sempre evoluindo e buscando criar soluções inteligentes através da tecnologia.
+</p>
