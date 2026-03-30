@@ -63,6 +63,10 @@ Atualmente busco uma oportunidade como desenvolvedor, onde eu possa aplicar meus
 <a href="mailto:tonny_oliveira10@hotmail.com">
 <img src="https://img.shields.io/badge/-tonny_oliveira10@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" />
 </a>
+
+<a href="https://wa.me/5512997232029">
+<img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=WhatsApp&logoColor=white" />
+</a>
 </p>
 
 ---
